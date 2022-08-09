@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["npm.computed-style"],{jTPX:function(e,n){var t=function(e,n,t){t=window.getComputedStyle;return(t?t(e):e.currentStyle)[n.replace(/-(\w)/gi,(function(e,n){return n.toUpperCase()}))]};e.exports=t}}]);
